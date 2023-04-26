@@ -1,4 +1,4 @@
-# HousePricePrediction
+# House Price Prediction
 > Advanced House Price Regression
 Predicting house prices using advanced regression techniques such as Ridge and Lasso.
 
